@@ -1,6 +1,6 @@
 # JavaScript Logic Exercise
 
-Este repositório reúne exercícios práticos de JavaScript desenvolvidos durante meus estudos, com foco em lógica de programação, manipulação de dados, DOM, eventos e desafios progressivos.
+Este repositório reúne exercícios práticos de JavaScript desenvolvidos durante meus estudos, com foco em lógica de programação, estruturas de dados, métodos de manipulação de dados, DOM, eventos e desafios progressivos.
 
 A proposta é organizar minha evolução de forma clara, partindo dos fundamentos da linguagem até exercícios mais completos e próximos de situações reais.
 
@@ -11,22 +11,23 @@ javascript-logic-exercise/
 ├── README.md
 ├── 01-fundamentals/
 ├── 02-data-structures/
-├── 03-array-methods/
-├── 04-string-methods/
-├── 05-dom-basics/
-├── 06-events/
-└── 07-mini-challenges/
+├── 03-data-manipulation-methods/
+│   ├── array-methods/
+│   ├── string-methods/
+│   └── object-methods/
+├── 04-dom-basics/
+├── 05-events/
+└── 06-mini-challenges/
 ```
 
 ## Categorias
 
 - **01-fundamentals**: fundamentos da linguagem, como variáveis, operadores, condicionais e funções.
 - **02-data-structures**: prática com arrays, objetos e organização de dados.
-- **03-array-methods**: exercícios com métodos de array, como `forEach`, `map`, `filter`, `find`, `some`, `every` e `reduce`.
-- **04-string-methods**: exercícios com métodos de manipulação de strings.
-- **05-dom-basics**: fundamentos de manipulação do DOM.
-- **06-events**: prática com eventos de usuário.
-- **07-mini-challenges**: desafios um pouco mais completos, combinando diferentes conceitos.
+- **03-data-manipulation-methods**: exercícios com métodos e recursos para manipular arrays, strings e objetos.
+- **04-dom-basics**: fundamentos de manipulação do DOM.
+- **05-events**: prática com eventos de usuário.
+- **06-mini-challenges**: desafios um pouco mais completos, combinando diferentes conceitos.
 
 ## Objetivos
 
